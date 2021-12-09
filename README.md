@@ -6,7 +6,7 @@ Some familiarity with SQL and Python programming including common data analysis 
 ## About
 In this program we learn the skills required to organise data, uncover patterns and insights, draw meaningful conclusions and communicate critical findings. We accomplish this using Python (along with Numpy, Pandas, Matplotlib) and SQL.
 
-- **Estimated Duration**: 3 Months  <br/>
+- **Estimated Duration**: 4 Months  <br/>
 - **Difficulty Level**: Intermediate <br/>
 - **Course Rating**: 4.6 (1900) <br/>
 - **Industry Partners**: Kaggle
