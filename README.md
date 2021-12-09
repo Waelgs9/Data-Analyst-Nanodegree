@@ -1,7 +1,5 @@
 # Data-Analyst-Nanodegree
 
-
-# Data Analyst Nanodegree
 ## Prerequisites
 Some familiarity with SQL and Python programming including common data analysis libraries (like Numpy and Pandas).
 
